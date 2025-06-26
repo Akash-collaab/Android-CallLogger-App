@@ -1,0 +1,34 @@
+# Ignore IDE and project-specific files
+.idea/
+*.iml
+.DS_Store
+
+# Gradle
+.gradle/
+build/
+local.properties
+output-metadata.json
+
+# Build system folders
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Logs and APKs
+*.log
+*.apk
+
+# IntelliJ-specific
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google/Firebase
+google-services.json
+
+# Profiling
+*.hprof
